@@ -28,7 +28,6 @@
 - [LinGBM: A Performance Benchmark for Approaches to Build GraphQL Servers](http://olafhartig.de/files/ChengHartig_LinGBM_WISE2022_AcceptedManuscript.pdf)
 - [The FaaS-Based Cloud Agnostic Architecture of Medical Services—Polish Case Study](https://www.mdpi.com/2076-3417/12/15/7954)
 - [Towards Greener Applications: Enabling Sustainable-aware Cloud Native Applications Design](https://link.springer.com/chapter/10.1007/978-3-031-07472-1_6)
-- [FPGA-Based System for the Acceleration of Cloud Microservices](https://ieeexplore.ieee.org/abstract/document/8436912)
 - [Blockchain Goes Green? An Analysis of Blockchain on Low-Power Nodes](https://arxiv.org/abs/1905.06520)
 ## 3. For every publication, complete the following questions:
 - What is the quality of the publications? (Kind, reputations, indicators...) 
