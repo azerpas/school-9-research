@@ -68,7 +68,31 @@
         - Yes, as it explains the differences between PoW and PoS
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
         - Yes, as it describe what's a consensus algorithm
-
+- [Blockchain Consensus: An analysis of Proof-of-Work and its applications.](http://www.scs.stanford.edu/17au-cs244b/labs/projects/porat_pratap_shah_adkar.pdf)
+    - What is the quality of the publications? (Kind, reputations, indicators...) 
+        - Research article
+        - Stanford University
+    - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
+        - Yes, as it speaks about the PoW consensus algorithm
+    - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
+        - Yes, as it explains why they choose Ethereum over Bitcoin for their project
+- [Three Attacks on Proof-of-Stake Ethereum](https://arxiv.org/pdf/2110.10086.pdf)
+    - What is the quality of the publications? (Kind, reputations, indicators...) 
+        - Research article
+        - Ethereum Foundation, Stanford University
+    - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
+        - Yes, as it demonstrates the vulnerabilities of PoS
+    - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
+        - Yes, as it details the previous found vulnerabilities of PoS and the possible new ones
+- [Proof-of-Stake Consensus Mechanisms for Future Blockchain Networks: Fundamentals, Applications and Opportunities](https://ieeexplore.ieee.org/abstract/document/8746079)
+    - What is the quality of the publications? (Kind, reputations, indicators...) 
+        - Research article
+        - IEEE
+        - Cited by 247
+    - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
+        - Yes, as it depicts the PoS consensus mechanism
+    - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
+        - Yes, as it historically explains the move to PoS consensus mechanism
 ## 3. For every publication, complete the following questions:
 - What is the quality of the publications? (Kind, reputations, indicators...) 
 - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
