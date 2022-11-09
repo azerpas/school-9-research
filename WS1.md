@@ -36,12 +36,12 @@
         - Yes, as it is highly related to our topic
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
         - Yes, it is relevant as it describes the problems of current blockchain nodes and the power they consume
-- [The green blockchain: Managing decentralized energy production and consumption](https://ieeexplore.ieee.org/abstract/document/7977613)
+- [The green blockchain: Managing decentralized energy production and consumption](https://ieeexplore.ieee.org/abstract/document/7977613)([Sci-Hub](https://sci-hub.se/10.1109/EEEIC.2017.7977613))
     - What is the quality of the publications? (Kind, reputations, indicators...) 
         - Research article
         - IEEE
     - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
-        - Yes, as it is introduce some interesting ideas like the green certificates
+        - Yes, as it is introduce some interesting ideas like the green blockchain
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
         - Yes and no, the abstract doesn't say enough about the impact of blockchains
 - [Leveraging blockchain technology for innovative climate finance under the Green Climate Fund](https://www.sciencedirect.com/science/article/pii/S2589811620300434)
@@ -52,6 +52,23 @@
         - Yes, as it explains how the blockchain tech can be used to finance climate projects transparently, with standardized transactions, etc...
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
         - Yes, the abstract is relevant as it describes the problems of current climate finance and the solutions that blockchain can bring to it
+- [Towards a Green Blockchain: A Review of Consensus Mechanisms and their Energy Consumption](https://www.researchgate.net/publication/354818357_Towards_a_Green_Blockchain_A_Review_of_Consensus_Mechanisms_and_their_Energy_Consumption)
+    - What is the quality of the publications? (Kind, reputations, indicators...) 
+        - Research article
+        - IEEE
+    - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
+        - Yes, as it highlights the consensus mechanisms and their energy consumption
+    - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
+        - Yes, as it depicts the fact that organizations worldwide are looking for ways to reduce their energy consumption while Bitcoin is still using a lot of energy
+- [Pros and cons of consensus algorithm proof of stake. Difference in the network safety in proof of work and proof of stake](https://web.archive.org/web/20190429064714id_/http://elit.lnu.edu.ua/pdf/9_10.pdf) 
+    - What is the quality of the publications? (Kind, reputations, indicators...) 
+        - Research article
+        - Electronics and information technologies (Електроніка та інформаційні технології)
+    - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
+        - Yes, as it explains the differences between PoW and PoS
+    - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
+        - Yes, as it describe what's a consensus algorithm
+
 ## 3. For every publication, complete the following questions:
 - What is the quality of the publications? (Kind, reputations, indicators...) 
 - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
