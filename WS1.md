@@ -1,22 +1,17 @@
 # GOAL: From the topic of this year “Développement durable”, find a research question(s) and write hypotheses.
 ## 1. Select keywords that interest you. From these keywords, analyse the article we found.
-- API
-- Data
-- Big Data
-- GraphQL
-- REST
 - Blockchain
-- Cloud
+- Proof-Of-Work
+- Proof-Of-Stake
+- Decentralization
+- Sustainability
+- Migration
+- Optimization
+- Energy
+- Green
+- Open Source
 ## 2. Compile a reference list of 10 scientific publications from different peer reviewedacademic journals, recent conferences or thesis that relate to your topic. 
 *Ensure that there is a link between your research question, your key words and the publications. Add the first page of each publication that includes the abstract to the portfolio.*
-- [Green coding: Can we make our carbon footprint smaller through coding?](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1675178&dswid=7064)
-    - What is the quality of the publications? (Kind, reputations, indicators...) 
-        - Thesis
-        - Independant
-    - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
-        - Yes, as it depicts the carbon footprint of software development and the best practices to reduce it
-    - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
-        - Yes, it is relevant as it describes the problems of current software development
 - [The Energy Footprint of Blockchain Consensus Mechanisms Beyond Proof-of-Work](https://ieeexplore.ieee.org/abstract/document/9741872)
     - What is the quality of the publications? (Kind, reputations, indicators...) 
         - Conference text
@@ -25,10 +20,38 @@
         - Yes, beyond the PoW, this paper describes the energy consumption of other consensus mechanisms like PoS
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
         - Yes as it enumerates the different consensus mechanisms
-- [LinGBM: A Performance Benchmark for Approaches to Build GraphQL Servers](http://olafhartig.de/files/ChengHartig_LinGBM_WISE2022_AcceptedManuscript.pdf)
-- [The FaaS-Based Cloud Agnostic Architecture of Medical Services—Polish Case Study](https://www.mdpi.com/2076-3417/12/15/7954)
-- [Towards Greener Applications: Enabling Sustainable-aware Cloud Native Applications Design](https://link.springer.com/chapter/10.1007/978-3-031-07472-1_6)
+- [Green coding: Can we make our carbon footprint smaller through coding?](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1675178&dswid=7064)
+    - What is the quality of the publications? (Kind, reputations, indicators...) 
+        - Thesis
+        - Independant
+    - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
+        - Yes, as it depicts the carbon footprint of software development and the best practices to reduce it
+    - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
+        - Yes, it is relevant as it describes the problems of current software development
 - [Blockchain Goes Green? An Analysis of Blockchain on Low-Power Nodes](https://arxiv.org/abs/1905.06520)
+    - What is the quality of the publications? (Kind, reputations, indicators...) 
+        - Thesis
+        - National University of Singapore, Zhejiang University
+    - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
+        - Yes, as it is highly related to our topic
+    - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
+        - Yes, it is relevant as it describes the problems of current blockchain nodes and the power they consume
+- [The green blockchain: Managing decentralized energy production and consumption](https://ieeexplore.ieee.org/abstract/document/7977613)
+    - What is the quality of the publications? (Kind, reputations, indicators...) 
+        - Research article
+        - IEEE
+    - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
+        - Yes, as it is introduce some interesting ideas like the green certificates
+    - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
+        - Yes and no, the abstract doesn't say enough about the impact of blockchains
+- [Leveraging blockchain technology for innovative climate finance under the Green Climate Fund](https://www.sciencedirect.com/science/article/pii/S2589811620300434)
+    - What is the quality of the publications? (Kind, reputations, indicators...) 
+        - Research article
+        - Karsten Schulza, Marian Feistb
+    - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
+        - Yes, as it explains how the blockchain tech can be used to finance climate projects transparently, with standardized transactions, etc...
+    - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
+        - Yes, the abstract is relevant as it describes the problems of current climate finance and the solutions that blockchain can bring to it
 ## 3. For every publication, complete the following questions:
 - What is the quality of the publications? (Kind, reputations, indicators...) 
 - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
