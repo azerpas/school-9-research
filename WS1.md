@@ -104,7 +104,8 @@
 - What is the quality of the publications? (Kind, reputations, indicators...) 
 - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
 - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
-## Fill the following table for 3 publications that you estimate the more relevant. In minimum, one of these publications must be a reputed academic journal.
+## 4. Fill the following table for 3 publications that you estimate the more relevant. In minimum, one of these publications must be a reputed academic journal.
+### Publication 1
 <table>
     <caption><b>Analysis of Scientific Publications</b></caption>
     <tbody>
@@ -149,6 +150,8 @@
         </tr>
     </tbody>
 </table>
+
+### Publication 2
 <table>
     <caption><b>Analysis of Scientific Publications</b></caption>
     <tbody>
@@ -190,6 +193,8 @@
         </tr>
     </tbody>
 </table>
+
+### Publication 3
 <table>
     <caption><b>Analysis of Scientific Publications</b></caption>
     <tbody>
