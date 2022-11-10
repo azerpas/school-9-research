@@ -16,6 +16,7 @@
     - What is the quality of the publications? (Kind, reputations, indicators...) 
         - Conference text
         - IEEE
+        - Cited by 31
     - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
         - Yes, beyond the PoW, this paper describes the energy consumption of other consensus mechanisms like PoS
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
@@ -32,14 +33,16 @@
     - What is the quality of the publications? (Kind, reputations, indicators...) 
         - Thesis
         - National University of Singapore, Zhejiang University
+        - Cited by 12
     - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
         - Yes, as it is highly related to our topic
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
         - Yes, it is relevant as it describes the problems of current blockchain nodes and the power they consume
 - [The green blockchain: Managing decentralized energy production and consumption](https://ieeexplore.ieee.org/abstract/document/7977613)([Sci-Hub](https://sci-hub.se/10.1109/EEEIC.2017.7977613))
     - What is the quality of the publications? (Kind, reputations, indicators...) 
-        - Research article
+        - Research paper
         - IEEE
+        - Cited by 204
     - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
         - Yes, as it is introduce some interesting ideas like the green blockchain
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
@@ -48,6 +51,7 @@
     - What is the quality of the publications? (Kind, reputations, indicators...) 
         - Research article
         - Karsten Schulza, Marian Feistb
+        - Cited by 30
     - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
         - Yes, as it explains how the blockchain tech can be used to finance climate projects transparently, with standardized transactions, etc...
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
@@ -56,6 +60,7 @@
     - What is the quality of the publications? (Kind, reputations, indicators...) 
         - Research article
         - IEEE
+        - Cited by 11
     - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
         - Yes, as it highlights the consensus mechanisms and their energy consumption
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
@@ -64,6 +69,7 @@
     - What is the quality of the publications? (Kind, reputations, indicators...) 
         - Research article
         - Electronics and information technologies (Електроніка та інформаційні технології)
+        - Cited by 24
     - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
         - Yes, as it explains the differences between PoW and PoS
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
@@ -72,6 +78,7 @@
     - What is the quality of the publications? (Kind, reputations, indicators...) 
         - Research article
         - Stanford University
+        - Cited by 18
     - Do you think the title are relevant? Y/N. Explain in one or two sentences. 
         - Yes, as it speaks about the PoW consensus algorithm
     - If Yes: do you think this abstract is relevant? Y/N. Explain in one or two sentences.
@@ -103,43 +110,124 @@
     <tbody>
         <tr>
             <td>Full reference:</td>
-            <td></td>
+            <td>Blockchain Consensus: An analysis of Proof-of-Work and its applications.</td>
         </tr>
         <tr>
             <td>What is the research problem?</td>
-            <td></td>
+            <td>The research problem concerns the analysis of the PoW consensus algorithm and its applications.</td>
         </tr>
         <tr>
             <td>Why did you choose this publication?</td>
-            <td></td>
+            <td>
+                I choosed this application because it is a research article from Stanford University which is a reputed university.
+                It is also explaining the PoW consensus algorithm, so it's a good starting point for the research around Bitcoin and its consensus algorithm.
+            </td>
         </tr>
         <tr>
             <td>Who are the authors?</td>
-            <td></td>
+            <td>Amitai Porat, Avneesh Pratap, Parth Shah, and Vinit Adkar. Graduates at Stanford Univeristy.</td>
         </tr>
         <tr>
             <td>What is the main research question/focus of the publication?</td>
-            <td></td>
+            <td>The main research question is to analyze the PoW consensus algorithm and its applications and how this team choose Ethereum over Bitcoin for their project.</td>
         </tr>
         <tr>
             <td>Which topics are included in the literature review for this publication?</td>
-            <td></td>
+            <td>Bitcoin, Ethereum, PoW, PoS, Consensus algorithm, Cryptocurrency, Smart-Contracts, etc...</td>
         </tr>
         <tr>
-            <td>What is the theoretical foundation of the
-research?</td>
-            <td>Some articles may not have a theoretical
-base</td>
+            <td>What is the theoretical foundation of the research?</td>
+            <td>Industries are picking up on the blockchain technology and especially Bitcoin</td>
         </tr>
         <tr>
-            <td>What research methods were used to carry
-out the research?</td>
-            <td></td>
+            <td>What research methods were used to carry out the research?</td>
+            <td>Experiments, Case Study</td>
         </tr>
         <tr>
             <td>What is the main finding/conclusion?</td>
-            <td>Main findings need to answer the research
-question/s</td>
+            <td>Ethereum is a better choice than Bitcoin for their project because of its scalability and its smart-contracts.</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <caption><b>Analysis of Scientific Publications</b></caption>
+    <tbody>
+        <tr>
+            <td>Full reference:</td>
+            <td>Proof-of-Stake Consensus Mechanisms for Future Blockchain Networks: Fundamentals, Applications and Opportunities</td>
+        </tr>
+        <tr>
+            <td>What is the research problem?</td>
+            <td>The research problem explains the Proof-of-Stake consensus mechanism through a case study.</td>
+        </tr>
+        <tr>
+            <td>Why did you choose this publication?</td>
+            <td>This publication helps to understand the PoS consensus algorithm at a larger glance.</td>
+        </tr>
+        <tr>
+            <td>Who are the authors?</td>
+            <td>Doctors and researchers from different universities all around the world.</td>
+        </tr>
+        <tr>
+            <td>What is the main research question/focus of the publication?</td>
+            <td>The main research focus is to detail the stake process, its competition among stakeholders, and its design parameters.</td>
+        </tr>
+        <tr>
+            <td>Which topics are included in the literature review for this publication?</td>
+            <td>Proof-of-Stake, Consensus Mechanisms, Decentralization</td>
+        </tr>
+        <tr>
+            <td>What is the theoretical foundation of the research?</td>
+            <td>"With the help of cryptographic hash functions, digital signatures, and distributed consensus mechanisms, once a record enters the database, it cannot be altered without the consensus of the other network participants"</td>
+        </tr>
+        <tr>
+            <td>What research methods were used to carry out the research?</td>
+            <td>Experiments, Case Study</td>
+        </tr>
+        <tr>
+            <td>What is the main finding/conclusion?</td>
+            <td>They have shown that PoS has several challenges to face to develop secure and efficient consensus mechanisms.</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <caption><b>Analysis of Scientific Publications</b></caption>
+    <tbody>
+        <tr>
+            <td>Full reference:</td>
+            <td>Towards a Green Blockchain: A Review of Consensus Mechanisms and their Energy Consumption</td>
+        </tr>
+        <tr>
+            <td>What is the research problem?</td>
+            <td>The research problem concerns the analysis of multiple consensus algorithms and their energy consumption.</td>
+        </tr>
+        <tr>
+            <td>Why did you choose this publication?</td>
+            <td>I choosed this publication because it is related to our subject in a way that it is explaining the energy consumption of blockchains and their different consensus algorithms which are many.</td>
+        </tr>
+        <tr>
+            <td>Who are the authors?</td>
+            <td>They are researchers from the University of Bornemouth in United Kingdom.</td>
+        </tr>
+        <tr>
+            <td>What is the main research question/focus of the publication?</td>
+            <td>This publication depicts the different consensus algorithms, their pros and cons and their energy consumption.</td>
+        </tr>
+        <tr>
+            <td>Which topics are included in the literature review for this publication?</td>
+            <td>Blockchains, Consensus algorithms, Energy consumption, Proof-of-Work, Proof-of-Stake, Proof-of-Authority, Proof-of-Capicity, Proof-of-Activity, etc...</td>
+        </tr>
+        <tr>
+            <td>What is the theoretical foundation of the research?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What research methods were used to carry out the research?</td>
+            <td>Case Study</td>
+        </tr>
+        <tr>
+            <td>What is the main finding/conclusion?</td>
+            <td>The creation of a Decision Support Framework to help the decision making process and classifying the different blockchains.</td>
         </tr>
     </tbody>
 </table>
