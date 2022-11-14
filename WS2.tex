@@ -79,7 +79,7 @@ But in 2022, Ethereum chose to drift from \textit{Proof-of-Work} to a  well-know
 
 \subsection{Proof-of-Stake}
 
-\textit{Proof-of-Stake (PoS)} is a consensus algorithm that relies on the number of coins that each participant of the network holds and stakes. For example, on the Ethereum blockchain, if you possess some ethers (the official coin of the blockchain), stake them indefinitely, and get selected based on your stakes, you will get rewarded by some more ethers for securing the network. So instead of using a big wasting energy consumer like \textit{Proof-of-Work}, you could use \textit{PoS} which use a pseudo-random algorithm to determine the selected staker that will verify the transaction. The probability that a node is selected to verify a transaction is defined as follow:
+\textit{Proof-of-Stake (PoS)} is a consensus algorithm that relies on the number of coins that each participant of the network holds and stakes. For example, on the Ethereum blockchain, if you possess some ethers (the official coin of the blockchain), stake them indefinitely, and get selected based on your stakes, you will get rewarded by some more ethers for securing the network. So instead of using a big wasting energy consumer like \textit{Proof-of-Work (PoW)}, you could use PoS which use a pseudo-random algorithm to determine the selected staker that will verify the transaction. The probability that a node is selected to verify a transaction is defined as follow:
 \begin{equation} \label{eq:sample}
 {p_{i}} = {{s_{i}}\over {\sum_{j=1}^{N} s_{j}}}.
 \end{equation}
@@ -89,6 +89,28 @@ But in 2022, Ethereum chose to drift from \textit{Proof-of-Work} to a  well-know
     \item[N] the number of participants in the network
     \item[$s_{i}$] the stake of the node \textit{i}
 \end{itemize}
+See \citep[reference.][]{IEEE2169-3536:19} 4--5
+
+Alongside reducing the energy consumption drastically, this algorithm also helps to process a lot more transactions than PoW. PoS, can go up to 875 Transaction per second\textit{(tps)}, while the PoW can only go up to 7 Tps. \citep[reference.][]{IEEE2169-3536:19} 6--6
+
+\begin{table}
+\begin{center}
+\caption{Performance comparaison between PoS and PoW}\label{tb:margins}
+\begin{tabular}{cccc}
+Consensus & Tps & Scalability & J/transaction \\\hline
+\textbf{PoW} & 7 & 10k nodes & 1 billion Joules \\
+\textbf{PoS} & 875 & up to 500k nodes & 1000 Joules \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+\pagebreak
+\hfill \break
+In 2022, when Ethereum switched from PoW to PoS, it reduced the energy consumption by 99.5\% making it 1 million time less consuming than PoW chain like Bitcoin. \citep[reference.][]{FTSE:22} While at the time, Ethereum was responsible for as much as 0.4\% of global energy consumption, it has now been made insignificant. Furthermore, on top of Ethereum is built new technologies, layers 2, which are networks layers operating on Ethereum but at an even lower cost. This has been made possible by the shift to PoS. But this transition has not been made without some sacrifices. 
+
+\subsection{Consequences of the migration to Proof-of-Stake}
+
+To begin, it is important to notice that this transition has been made without any issue. Ethereum mainnet (e.g. the main network) has transited from PoW to PoS at block 15537394. In this last PoW block, the miner (F2Pool) has included a message:\hfill \break
+\textit{“Make the commitment and nature will respond to that commitment by removing impossible obstacles. Dream the impossible dream and the world will not grind you under, it will lift you up. This is the trick.”}. \hfill \break \break A bit ironic as miners in the PoW ecosystem were heavily recompensed, whereas in PoS most of the stakers aren't earning much. Which conducted some old miners to hard-fork Ethereum, which means copy the blockchain, to keep the PoW consensus. This chain called Ethereum PoW is running a low number of transactions but has the goal to continue to be an "alternative of security to the PoS network". Attacks, see \citep[reference.][]{Stanford:22}, already exists on PoS, and they can be applied far easily than on PoW. Two main methods were described recently, the one where a short reorganization of the underlying consensus chain is used to increase the profits of stakers and the delay to make consensus decisions. The other one, where an adversarial network delay is leveraged to block consensus delay indefinitely. These attacks threaten directly the authenticity and the security of the Ethereum network.
 
 
 % \begin{itemize}
